@@ -2,6 +2,7 @@
 
 HTML, JavaScript ve Canvas kullanılarak yapılmış uzay temalı bir 2D nişancı oyunudur. Oyuncu, bilinmeyenlerden (düşmanlardan) gelen saldırılardan kaçarak onları yok etmeye çalışır.
 
+Oyunun ismi ve Linki: ``` Bricker Breaks Free ```  ``` https://angry-armadillo-games.itch.io/bricker-breaks-free ```
 ## Oynanış
 
 - **a tuşu**: Sola hareket
