@@ -46,13 +46,7 @@ Bu oyunu çalıştırmak için:
 git clone https://github.com/alidvc/bilinmeyenlerden-kurtul.git
 ```
 
-2. Proje klasörünü aç:
-
-```bash
-cd bilinmeyenlerden-kurtul
-```
-
-3. `index.html` dosyasını bir tarayıcıda aç.
+2. `alidvc.github.io` sitesini bir tarayıcıda aç.
 
 **Not:** Müzik ve görsellerin çalışması için `img/` ve `music/` klasörleri eksiksiz olmalıdır.
 
