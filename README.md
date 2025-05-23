@@ -28,10 +28,8 @@ HTML, JavaScript ve Canvas kullanılarak yapılmış uzay temalı bir 2D nişanc
 
 
 
-```markdown
 ![Oyun Görseli](EkranGoruntulerı/EkranGoruntusu1.png)
 ![Oyun Görseli](EkranGoruntulerı/EkranGoruntusu2.png)
-```
 
 ## Oyunun Tanıtım Videosu
 
